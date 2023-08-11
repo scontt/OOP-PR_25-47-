@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ArrayOfConcert xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Concert>
+    <Name>Киркоров</Name>
+    <Date>12.04.2024</Date>
+    <Time>17:30</Time>
+  </Concert>
+  <Concert>
+    <Name>Событие</Name>
+    <Date>17.11.2023</Date>
+    <Time>13:04</Time>
+  </Concert>
+</ArrayOfConcert>
